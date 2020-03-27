@@ -1,0 +1,2 @@
+# Low-Cost-Face-shield---COVID-19
+  Most face shields done to assist medical practitioners are 3D printed. However, in my side of the world, where electricity is scarce, and access to 3D printer is still spatial. There is need for a very low cost manufacture of Face shield for health practitioners in developing countries. With regards to that, I created this easy to make face shield, that could be made within 20 minutes, and requires no machineries except glue, velcro bands, A4 foil, and any strong foam (10mm thick - recycled), and ribbon (recycled from a badge).
